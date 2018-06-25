@@ -8,7 +8,7 @@ def cheese_and_crackers(cheese_count, boxes_of_crackers):
 print("We can just give the function on numbers directly:")
 cheese_and_crackers(20, 30)
 
-print("OR, we can use variables from our script:")
+print(" OR, we can use variables from our script:")
 amount_of_cheese = 10
 amount_of_crackers = 50
 
